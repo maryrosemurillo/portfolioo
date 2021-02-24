@@ -1,0 +1,234 @@
+body{
+
+    background-image: url("esti.jpg");
+
+    background-size: cover;
+
+    background-repeat: no-repeat;
+
+}   
+
+.courses{
+
+    margin-left: 530px;
+
+    margin-top: -25px;
+
+}
+
+.crs{
+
+    margin-left: 250px;
+
+    margin-top: -30px;
+
+}
+
+.college{
+
+    margin-left: 370px;
+
+    margin-top: -230px;
+
+}
+
+.program{
+
+    margin-left: 400px;
+
+    margin-top: -20px;
+
+}
+
+
+
+.myevents{
+
+    margin-left: 50px;
+
+    margin-top: 15px;
+
+    font-size: 30px;
+
+    font-family: Maiandra GD;
+
+    color: snow;
+
+}
+
+
+
+.mission{
+
+    margin-left: 600px;
+
+    font-size: 27px;
+
+    margin-top: -420px;
+
+    margin-right: 30px;
+
+}
+
+
+
+.teachers{
+
+    margin-left: 100px;
+
+    font-size: 25px;
+
+    color: snow;
+
+}
+
+
+
+.co-teacher{
+
+    margin-right: 20px;
+
+    margin-left: 700px;
+
+    font-size: 25px;
+
+    margin-top: -230px;
+
+    color: snow;
+
+}   
+
+.first{
+
+    font-family:Arial ;
+
+    height: 600px;
+
+    width:850px;
+
+    align-items: center;
+
+    text-align: justify;
+
+    margin: 1% auto 0;
+
+    border-radius: 30px;
+
+    float:center;
+
+    background:rgba(44, 44, 44, 0.2);
+
+	-webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+
+    border: 1px solid gray;
+
+    
+
+    }
+
+    .second{
+
+        width: 1200px;
+
+        font-family:Arial ;
+
+        text-align: justify;
+
+        margin: 1% auto 0;
+
+        border-radius: 30px;
+
+        float:center;
+
+        background:rgba(44, 44, 44, 0.2);
+
+        -webkit-backdrop-filter: blur(5px);
+
+        backdrop-filter: blur(5px);
+
+        border: 1px solid gray;
+
+        
+
+        }
+
+        .third{
+
+        width: 1200px;
+
+            font-family:Arial ;
+
+            text-align: justify;
+
+            margin: 1% auto 0;
+
+            border-radius: 30px;
+
+            float:center;
+
+            background:rgba(44, 44, 44, 0.2);
+
+            -webkit-backdrop-filter: blur(5px);
+
+            backdrop-filter: blur(5px);
+
+            border: 1px solid gray;
+
+            
+
+            }
+
+            .fourth{
+
+                width: 1200px;
+
+                    font-family:Arial ;
+
+                    text-align: justify;
+
+                    margin: 1% auto 0;
+
+                    border-radius: 30px;
+
+                    float:center;
+
+                    background:rgba(44, 44, 44, 0.2);
+
+                    -webkit-backdrop-filter: blur(5px);
+
+                    backdrop-filter: blur(5px);
+
+                    border: 1px solid gray;
+
+                    
+
+                    }
+
+                    .last{
+
+                       
+
+                        width: 1000px;
+
+                            font-family:Arial ;
+
+                            text-align: justify;
+
+                            margin: 1% auto 0;
+
+                            border-radius: 30px;
+
+                            float:center;
+
+                            background:rgba(44, 44, 44, 0.2);
+
+                            -webkit-backdrop-filter: blur(5px);
+
+                            backdrop-filter: blur(5px);
+
+                            border: 1px solid gray;
+
+                            
+
+                            }
